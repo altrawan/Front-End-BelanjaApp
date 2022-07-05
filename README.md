@@ -108,18 +108,36 @@ NEXT_PUBLIC_NODE_ENV = [NODE_ENV]
 ## Screenshoots
 <p align="center" display=flex>
 <table>
+
+  <tr>
+    <td><image src="https://lh3.googleusercontent.com/d/1CI-wY7qE9L1zCzBLohYNuNrPicCp1rwy" alt="Landing Page" width=100%></td>
+    <td><image src="https://lh3.googleusercontent.com/d/1AtdoIlH-gikqsDwH5_6UcnqsTy0kRFzl" alt="Landing Page After Login" width=100%/></td>
+  </tr>
+   <tr>
+    <td>Landing Page</td>
+    <td>Landing Page After Login</td>
+  </tr>
  
   <tr>
-    <td><image src="https://i.postimg.cc/wvw8FyGC/Screenshot-2022-06-24-130702.png" alt="Login Page" width=100%></td>
-    <td><image src="https://i.postimg.cc/2SQt2Lq0/Screenshot-2022-06-24-130959.png" alt="Landing Page" width=100%/></td>
+    <td><image src="https://lh3.googleusercontent.com/d/1NIjZeRqP-FC1nTRKXMlIxsvLm68_W3wI" alt="Login Page" width=100%></td>
+    <td><image src="https://lh3.googleusercontent.com/d/15DfgzY7ZbpxcX6VEH3dODw0HnPIslZeC" alt="Register Page" width=100%/></td>
   </tr>
    <tr>
     <td>Login Page</td>
-    <td>Landing Page</td>
+    <td>Register Page</td>
   </tr>
   
   <tr>
-    <td><image src="https://i.postimg.cc/jjjG2d5v/Screenshot-2022-06-24-130829.png" alt="Profile Customer" width=100%></td>
+    <td><image src="https://lh3.googleusercontent.com/d/1Imra1tf_S4NkaJSaDSreIYjCNvQdKWtn" alt="Forgot Password Page" width=100%></td>
+    <td><image src="https://lh3.googleusercontent.com/d/1Wof7LCRpXZyQka-3J__YST034NvV9vgX" alt="Reset Password Page" width=100%/></td>
+  </tr>
+   <tr>
+    <td>Forgot Password Page</td>
+    <td>Reset Password Page</td>
+  </tr>
+  
+  <tr>
+    <td><image src="https://lh3.googleusercontent.com/d/199lMdBSCKjVkNxPbqVczHjIvQnLG8pL4" alt="Profile Customer" width=100%></td>
     <td><image src="https://i.postimg.cc/LXDYTDRm/Screenshot-2022-06-24-130916.png" alt="Chat" width=100%/></td>
   </tr>
   <tr>
@@ -129,7 +147,7 @@ NEXT_PUBLIC_NODE_ENV = [NODE_ENV]
 
   <tr>
     <td><image src="https://i.postimg.cc/N0wKvSjg/Screenshot-2022-06-24-131107.png" alt="Filter" width=100%></td>
-    <td><image src="https://i.postimg.cc/xCfqcmmh/Screenshot-2022-06-24-131324.png" alt="Address" width=100%></td>
+    <td><image src="https://lh3.googleusercontent.com/d/1yCV-IgPMCWGqM_qPCp8O3XuoBNuWRWNT" alt="Address" width=100%></td>
   </tr>
   <tr>
       <td>Filter</td>
@@ -137,8 +155,8 @@ NEXT_PUBLIC_NODE_ENV = [NODE_ENV]
   </tr>
   
   <tr>
-    <td><image src="https://i.postimg.cc/59KPRfMC/Fire-Shot-Capture-056-Blanja-Profile-customer-blanja-shop-vercel-app.png" alt="My Order" width=100%></td>
-    <td><image src="https://i.postimg.cc/wjM9dqtY/Fire-Shot-Capture-055-Blanja-Products-blanja-shop-vercel-app.png" alt="Detail Product" width=100%></td>
+    <td><image src="https://lh3.googleusercontent.com/d/1Xh5JB-s_MNsUvrSvsHQaN2O3wAngLY03" alt="My Order" width=100%></td>
+    <td><image src="https://lh3.googleusercontent.com/d/1VfFZLRjDtYjqaLexYaSEhBtc5HFzYi7P" alt="Detail Product" width=100%></td>
   </tr>
   <tr>
       <td>My Order</td>
@@ -146,8 +164,8 @@ NEXT_PUBLIC_NODE_ENV = [NODE_ENV]
   </tr>
   
   <tr>
-    <td><image src="https://i.postimg.cc/YCTBK1KQ/Fire-Shot-Capture-046-Blanja-My-Bag-localhost.png" alt="My Bag" width=100%></td>
-    <td><image src="https://i.postimg.cc/SKvNNPy2/Screenshot-2022-06-22-182701.png" alt="Checkout" width=100%></td>
+    <td><image src="https://lh3.googleusercontent.com/d/1Xq8xoByo-_aICVG4M-heeloozDEQixy4" alt="My Bag" width=100%></td>
+    <td><image src="https://lh3.googleusercontent.com/d/1GEHtTAfFOoKZRI23JaEDJoukF5W8fee8" alt="Checkout" width=100%></td>
   </tr>
   <tr>
       <td>My Bag</td>
@@ -155,15 +173,15 @@ NEXT_PUBLIC_NODE_ENV = [NODE_ENV]
   </tr>
     <tr>
     <td><image src="https://i.postimg.cc/8z3Mxtq4/Screenshot-2022-06-22-182954.png" alt="Payment" width=100%></td>
-    <td><image src="https://i.postimg.cc/wTS65KfX/Fire-Shot-Capture-041-Belanja-Profile-Seller-blanja-shop-vercel-app.png" alt="My Order" width=100%/></td>
+    <td><image src="https://lh3.googleusercontent.com/d/14C9uV11Xq-dNL_Z1o1cPTI7bCwolWFAW" alt="My Order" width=100%/></td>
   </tr>
    <tr>
     <td>Payment</td>
     <td>My Product</td>
   </tr>
    <tr>
-    <td><image src="https://i.postimg.cc/GmS1ks66/Screenshot-2022-06-24-131940.png" alt="Profile Seller" width=100%></td>
-    <td><image src="https://i.postimg.cc/xTT7t1GQ/Screenshot-2022-06-24-132032.png" alt="Selling Product" width=100%></td>
+    <td><image src="https://lh3.googleusercontent.com/d/1HYfoek5666MNBT1Ty5hiURqKnsm_NYAa" alt="Profile Seller" width=100%></td>
+    <td><image src="https://lh3.googleusercontent.com/d/18Z9qkQVN_XCcMN4Gle2wmhX2rOUxNBjZ" alt="Selling Product" width=100%></td>
   </tr>
   <tr>
       <td>Profile Seller</td>
